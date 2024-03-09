@@ -1,4 +1,5 @@
-
+file = open('24.txt')
+f = file.read()
 
 alph = ['ABA', 'BAB']
 count = 0
